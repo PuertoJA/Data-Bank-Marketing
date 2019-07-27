@@ -1,4 +1,7 @@
 # Data-Bank-Marketing
+
+O script principal é: Desafio_v1.0.ipynb
+
 O seguinte desafio pretende resolver uma série de perguntas associadas à base de dados que pode ser encontrada no site Center for Machine Learning and Intelligent Systems
 Fonte oficial do ​ dataset : ​ ​ https://archive.ics.uci.edu/ml/datasets/bank+marketing
 Dados: ​ https://archive.ics.uci.edu/ml/machine-learning-databases/00222/bank.zip
@@ -34,3 +37,5 @@ Os labels para jobs são remarcados como:
 '8': 'housemaid',
 '9':'unemployed',
 '10':'Other'
+
+
